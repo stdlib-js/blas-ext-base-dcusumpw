@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`6a0d6b8`](https://github.com/stdlib-js/stdlib/commit/6a0d6b861f8e2079a501ca4e46a9175440eedb46) - **style:** update to use tabs for indentation _(by Philipp Burckhardt)_
 -   [`3bd3f48`](https://github.com/stdlib-js/stdlib/commit/3bd3f480c66a81bc012efd838cef6e0cbda52870) - **feat:** add C `ndarray` API and refactor `blas/ext/base/dcusumpw` [(#2981)](https://github.com/stdlib-js/stdlib/pull/2981) _(by Muhammad Haris, Athan Reines)_
 -   [`272ae7a`](https://github.com/stdlib-js/stdlib/commit/272ae7ac5c576c68cfab1b6e304c86407faa20cd) - **docs:** remove comment _(by Athan Reines)_
