@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-12)
+## Unreleased (2025-05-25)
 
 <section class="features">
 
@@ -16,12 +16,24 @@
 
 <!-- /.features -->
 
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`3d59edd`](https://github.com/stdlib-js/stdlib/commit/3d59edde188e1359a12d967e6b77feeba4ccb6e4) - preserve sign of zero
+
+</section>
+
+<!-- /.bug-fixes -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`3d59edd`](https://github.com/stdlib-js/stdlib/commit/3d59edde188e1359a12d967e6b77feeba4ccb6e4) - **fix:** preserve sign of zero _(by Athan Reines)_
+-   [`6e2c12f`](https://github.com/stdlib-js/stdlib/commit/6e2c12fe3e14fe3475b847590f1db9bcdcb94f01) - **test:** add signed zero tests _(by Athan Reines)_
 -   [`4bc7b8c`](https://github.com/stdlib-js/stdlib/commit/4bc7b8cf8b26105f6a02decbe7030022024070df) - **docs:** update `blas/ext/base/dcusumpw` to follow current project conventions [(#5170)](https://github.com/stdlib-js/stdlib/pull/5170) _(by Muhammad Haris)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`6a0d6b8`](https://github.com/stdlib-js/stdlib/commit/6a0d6b861f8e2079a501ca4e46a9175440eedb46) - **style:** update to use tabs for indentation _(by Philipp Burckhardt)_

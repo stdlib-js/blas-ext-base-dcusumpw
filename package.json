@@ -57,6 +57,7 @@
   "devDependencies": {
     "@stdlib/array-float64": "^0.2.2",
     "@stdlib/assert-is-browser": "^0.2.2",
+    "@stdlib/assert-is-same-float64array": "^0.2.2",
     "@stdlib/math-base-assert-is-nan": "^0.2.2",
     "@stdlib/math-base-special-pow": "^0.3.0",
     "@stdlib/random-array-discrete-uniform": "^0.2.1",
