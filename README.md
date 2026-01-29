@@ -50,7 +50,7 @@ limitations under the License.
 To use in Observable,
 
 ```javascript
-dcusumpw = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dcusumpw@umd/browser.js' )
+dcusumpw = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dcusumpw@v0.3.0-umd/browser.js' )
 ```
 
 To vendor stdlib functionality and avoid installing dependency trees for Node.js, you can use the UMD server build:
@@ -62,7 +62,7 @@ var dcusumpw = require( 'path/to/vendor/umd/blas-ext-base-dcusumpw/index.js' )
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dcusumpw@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dcusumpw@v0.3.0-umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -193,7 +193,7 @@ dcusumpw.ndarray( 4, 0.0, x, 2, 1, y, -1, y.length-1 );
 <body>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/array-float64@umd/browser.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dcusumpw@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dcusumpw@v0.3.0-umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
