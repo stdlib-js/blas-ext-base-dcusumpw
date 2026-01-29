@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.3.0">
 
-## Unreleased (2025-08-18)
+## 0.3.0 (2026-01-29)
 
 <section class="features">
 
@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`2035f34`](https://github.com/stdlib-js/stdlib/commit/2035f344a1a469278042b7532f034dc6119933b3) - **docs:** add function documentation _(by Athan Reines)_
 -   [`3d59edd`](https://github.com/stdlib-js/stdlib/commit/3d59edde188e1359a12d967e6b77feeba4ccb6e4) - **fix:** preserve sign of zero _(by Athan Reines)_
 -   [`6e2c12f`](https://github.com/stdlib-js/stdlib/commit/6e2c12fe3e14fe3475b847590f1db9bcdcb94f01) - **test:** add signed zero tests _(by Athan Reines)_
 -   [`4bc7b8c`](https://github.com/stdlib-js/stdlib/commit/4bc7b8cf8b26105f6a02decbe7030022024070df) - **docs:** update `blas/ext/base/dcusumpw` to follow current project conventions [(#5170)](https://github.com/stdlib-js/stdlib/pull/5170) _(by Muhammad Haris)_
